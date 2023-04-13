@@ -1,44 +1,65 @@
-#mhlogo{
+#mhlogo {
     width: 50px;
 }
-.para{
+
+.para {
     padding: 50px;
 }
-#h1{
+
+#h1 {
     font-size: 64px;
 
 }
-#uppertxt{
+
+#uppertxt {
     font-size: 30px;
 }
-#belowtxt{
+
+#belowtxt {
     font-size: 25px;
 }
-#spotifyimg{
-    width: 200px;    
-    padding-top: 77px
 
+#spotifyimg {
+    width: 200px;
+    padding-top: 77px
 }
-#fashionimg{
+
+#fashionimg {
     width: 200px;
     padding-top: 62px
 }
-#jaguarimg{
+
+#jaguarimg {
     padding-top: 17px;
 }
-#card1img{
-    width: 50px;
-}
-#card2img{
-    width: 50px;
-}
-#card3img{
+
+#card1img {
     width: 50px;
 }
 
-#card4img{
+#card2img {
     width: 50px;
 }
-.card:hover{
+
+#card3img {
+    width: 50px;
+}
+
+#card4img {
+    width: 50px;
+}
+
+.card:hover {
     background-color: #20c997;
+}
+
+.hrtag {
+    width: 40%;
+    text-align: left;
+    margin-left: 0;
+    border: 2px solid red;
+}
+
+hr:not([size]) {
+    height: 3px;
 }
