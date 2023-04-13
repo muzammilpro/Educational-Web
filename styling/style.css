@@ -35,6 +35,10 @@
 #card3img{
     width: 50px;
 }
+
 #card4img{
     width: 50px;
+}
+.card:hover{
+    background-color: #20c997;
 }
