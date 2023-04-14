@@ -67,3 +67,10 @@ hr:not([size]) {
 #picbtn{
     border:none;
 }
+#picbox{
+    padding-top: 60px;
+}
+#boxwithpic{
+    padding-top: 75px;
+    padding-bottom: 60px;
+}
