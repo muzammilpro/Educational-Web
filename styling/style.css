@@ -50,7 +50,7 @@
 }
 
 .card:hover {
-    background-color: #20c997;
+    background-color: #198754;
 }
 
 .hrtag {
@@ -62,4 +62,8 @@
 
 hr:not([size]) {
     height: 3px;
+}
+
+#picbtn{
+    border:none;
 }
