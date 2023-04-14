@@ -74,7 +74,30 @@
 }
 
 #cardscaontainer {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding: 100px;
     background-color: #EFF6EE;
+}
+.card2{
+    background-color: white;
+}
+.card2:hover{
+    background-color: #98BA7E;
+    
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.download-symbol{
+    width: 30px;
+}
+.cardpara{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.currency-value{
+    color: #DFBD99;
+    border: black;
+}
+.card2btn{
+    border-radius: 30px;
 }
