@@ -128,3 +128,14 @@
         color: white;
     }
 }
+
+.conatiner-cards {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.card3btn{
+    border-radius: 20px;
+    width: 90%;
+    margin: 10px;
+    
+}
