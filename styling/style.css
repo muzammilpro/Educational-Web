@@ -77,44 +77,54 @@
     padding: 100px;
     background-color: #EFF6EE;
 }
-.card2{
+
+.card2 {
     background-color: white;
 }
-.card2:hover{
+
+.card2:hover {
     background-color: #98BA7E;
     box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.download-symbol{
+.download-symbol {
     width: 30px;
 }
-.cardpara{
+
+.cardpara {
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
-.currency-value{
+
+.currency-value {
     color: #DFBD99;
     border: black;
 }
-.card2btn{
+
+.card2btn {
     border-radius: 30px;
 }
-#pricewithsign{
-   color: #98BA7E;
+
+#pricewithsign {
+    color: #98BA7E;
 }
-#month{
+
+#month {
     color: blue;
     font-size: small;
 }
-#ul{
+
+#ul {
     list-style: url("../Assets/check-symbol.png ");
 }
-.card3:hover{
-    
+
+.card3:hover {
+
     background-color: #98BA7E;
     box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-#pricewithsign:hover{
-    color: white;
+
+    #pricewithsign {
+        color: white;
+    }
 }
