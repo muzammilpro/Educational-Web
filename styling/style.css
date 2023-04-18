@@ -139,3 +139,35 @@
     margin: 10px;
     
 }
+
+#ik1{
+    border-radius: 100%;
+    width: 90px;
+   
+}
+#ik2{
+    border-radius: 100%;
+    width: 90px;
+    
+}
+.stars{
+    
+    width: 135px;
+
+}
+.card5Container{
+    padding: 140px;
+}
+.card5{
+    border: 0px;
+}
+.last-text{
+    padding: 20px;
+}
+.email{
+    height: 34px;
+    width: 400px;
+}
+.footer{
+    overflow: hidden;
+}
